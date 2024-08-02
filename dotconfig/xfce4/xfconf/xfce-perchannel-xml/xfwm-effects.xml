@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfwm-effects" version="1.0">
+  <property name="effect-active" type="bool" value="true"/>
+  <property name="blur-amount" type="int" value="20"/>
+  <property name="white-amount" type="int" value="25"/>
+  <property name="image-path" type="string" value=""/>
+  <property name="effect-color" type="array">
+    <value type="double" value="1"/>
+    <value type="double" value="1"/>
+    <value type="double" value="1"/>
+    <value type="double" value="1"/>
+  </property>
+</channel>

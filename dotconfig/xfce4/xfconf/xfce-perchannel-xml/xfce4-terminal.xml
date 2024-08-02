@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="font-name" type="string" value="Hack Bold 11"/>
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="title-initial" type="string" value="cmd.exe"/>
+  <property name="title-mode" type="string" value="TERMINAL_TITLE_REPLACE"/>
+  <property name="font-allow-bold" type="bool" value="false"/>
+  <property name="misc-menubar-default" type="bool" value="true"/>
+  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="misc-borders-default" type="bool" value="true"/>
+  <property name="color-foreground" type="string" value="#c0c0bfbfbcbc"/>
+</channel>

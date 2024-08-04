@@ -6,7 +6,7 @@ Xfseven is a set of themes, guides and scripts to make Xfce look as close to Win
 ![Screenshot](/screenshots/1.jpg)
 
 # Additional
-**Blur**: If you want transparency blur (which does a lot of heavy lifting), you will need [Xfwm-effects](https://www.kalideva.com/) and [Imlib2](https://repology.org/project/imlib2/versions) or [Picom](https://github.com/yshui/picom), but no config is currently provided here.
+**Blur**: If you want transparency blur (which does a lot of heavy lifting), you will either need [Xfwm-effects](https://www.kalideva.com/) or [Picom](https://github.com/yshui/picom), but no config is currently provided here for the latter.
 
 **Microsoft Fonts**: Microsoft fonts have differing names depending on the package manager, so you will need to look it up for your distro. The system font used is Segoe UI Variable.
 

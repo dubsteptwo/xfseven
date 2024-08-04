@@ -8,19 +8,21 @@ Xfseven is a set of themes, guides and scripts to make Xfce look as close to Win
 # Additional
 **Blur**: If you want transparency blur (which does a lot of heavy lifting), you will need [Xfwm-effects](https://www.kalideva.com/) and [Imlib2](https://repology.org/project/imlib2/versions) or [Picom](https://github.com/yshui/picom), but no config is currently provided here.
 
-**Microsoft Fonts**: Microsoft fonts have differing names depending on the package manager, so you will need to look for what's it called in the one you're using. (??)
+**Microsoft Fonts**: Microsoft fonts have differing names depending on the package manager, so you will need to look it up for your distro. The system font used is Segoe UI Variable.
 
 **Terminal font**: The font in the screenshots is [Hack](https://github.com/source-foundry/Hack)
 
 **Icons**: The icon theme used in the screenshots is [Windows-7](https://github.com/B00merang-Artwork/Windows-7) by B00merang-Artwork
+
+**Xfwm4 Theme**: [X-Aero](https://www.xfce-look.org/p/1016331) by PaChu
+
+**Cursors**: [Aerodrop](https://www.pling.com/p/999406/) by oem68
 
 
 
 # Install
 Currently, only manual install is available. 
 
-Copy  `xfseven-gtk` to `/home/yourname/.themes` and `dotconfig/xfce4` to `/home/yourname/.config/xfce4` **(make sure to back up its current contents, as it will overwrite them!)**
+Copy  `xfseven-gtk` to `/home/yourname/.themes` and `dotconfig/xfce4` to `/home/yourname/.config/` **(make sure to back up its current contents, as it will overwrite them! I.e, your panel settings, window manager settings etc.)**, then restart your PC, and it should take effect.
 
-Follow the install instructions for the stuff from fuckinggg above also if u wantt
-
-I will write a script to make all of this automatic at some pointt maybeeeeeee
+I will write a script to make all of this automatic... at some point.

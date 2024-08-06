@@ -6,7 +6,7 @@ Xfseven is a set of themes to make Xfce look as close to Windows 7 Aero as possi
 ![Screenshot](/screenshots/1.jpg)
 
 # Additional
-**Blur**: If you want transparency blur (which does a lot of heavy lifting), you will either need [Xfwm-effects](https://www.kalideva.com/) or [Picom](https://github.com/yshui/picom), but no config is currently provided here for the latter.
+**Blur**: If you want transparency blur (which does a lot of heavy lifting), you will either need [Xfwm-effects](https://www.kalideva.com/) or [Picom](https://github.com/yshui/picom), configs for both are provided.
 
 **Microsoft Fonts**: Microsoft fonts have differing names depending on the package manager, so you will need to look it up for your distro. The system font used is Segoe UI Variable.
 
@@ -23,6 +23,6 @@ Xfseven is a set of themes to make Xfce look as close to Windows 7 Aero as possi
 # Install
 Currently, only manual install is available. 
 
-Copy  `xfseven-gtk` to `/home/yourname/.themes` and `dotconfig/xfce4` to `/home/yourname/.config/` **(make sure to back up its current contents, as it will overwrite them! I.e, your panel settings, window manager settings etc.)**, then restart your PC, and it should take effect.
+Copy  `xfseven-gtk` to `/home/yourname/.themes` and the contents of `dotconfig/` to `/home/yourname/.config/` **(make sure to back up /.config/xfce4's current contents, as it will overwrite them! I.e, your panel settings, window manager settings etc.)**, then restart your PC, and it should take effect.
 
 I will write a script to make all of this automatic... at some point.

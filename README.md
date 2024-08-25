@@ -1,5 +1,5 @@
 # Xfseven
-Xfseven is a set of themes to make Xfce look as close to Windows 7 Aero as possible.
+Xfseven is a set of themes to make Xfce look as close to Windows 7 Aero as possible. It is based on ![Windows 7](https://github.com/B00merang-Project/Windows-7/tree/master) by B00merang-Project
 
 ![Screenshot](/screenshots/3.jpg)
 ![Screenshot](/screenshots/2.jpg)

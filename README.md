@@ -1,17 +1,18 @@
 # Archived
 This repo is archived, because I don't wanna work on it anymore, and also Xfce isn't the best DE for this kind of look and feel anyway IMO.
-Here's some projects that you might be interested in that do a similar thing. \
-[AeroThemePlasma](https://gitgud.io/wackyideas/aerothemeplasma)\
+Here's some projects that you might be interested in that do a similar thing.
 
-[VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/)\
+[AeroThemePlasma](https://gitgud.io/wackyideas/aerothemeplasma)
 
-[Geckium](https://github.com/angelbruni/Geckium)\
+[VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/)
 
-[Ice2k.sys](https://toiletflusher.neocities.org/ice2k/)\
+[Geckium](https://github.com/angelbruni/Geckium)
 
-[Xfce-WinXP-TC](https://github.com/rozniak/xfce-winxp-tc)\
+[Ice2k.sys](https://toiletflusher.neocities.org/ice2k/)
 
-[Chicago95](https://github.com/grassmunk/Chicago95)\
+[Xfce-WinXP-TC](https://github.com/rozniak/xfce-winxp-tc)
+
+[Chicago95](https://github.com/grassmunk/Chicago95)
 
 You can also look into older stock Linux themes provided by DEs back in the day if you just want your desktop to look retro or whatever, as they're pretty complete, still supported or at least ported to newer versions of GTK and QT and whatever else by someone else. 
 
